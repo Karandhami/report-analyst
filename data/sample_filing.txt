@@ -1,0 +1,39 @@
+ITEM 1. BUSINESS
+
+Nimbus Cloud Systems, Inc. is a provider of cloud-based infrastructure
+monitoring and observability software for mid-market and enterprise customers.
+The Company sells primarily through an annual subscription model and serves
+over 4,000 customers across North America and Europe. Revenue grew strongly
+during the fiscal year driven by new customer acquisition and expansion within
+the existing base, with net revenue retention remaining a key strength of the
+business model.
+
+ITEM 1A. RISK FACTORS
+
+The Company operates in a highly competitive market and faces competition from
+both established platform vendors and emerging point solutions. A significant
+portion of revenue is concentrated among a limited number of large customers,
+and the loss of one or more such customers could adversely affect results.
+The Company is also exposed to regulatory uncertainty regarding data privacy
+across the jurisdictions in which it operates. Rising cloud infrastructure
+costs have placed pressure on gross margin, and the Company may not be able to
+pass these costs through to customers in a timely manner.
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Revenue for the fiscal year increased to record levels, reflecting continued
+demand for the Company's observability platform. Management notes that gross
+margin compressed modestly during the year as a result of higher cloud hosting
+and input costs, partially offset by pricing actions taken in the second half.
+Operating leverage improved as sales and marketing spend grew more slowly than
+revenue. The Company maintains a conservative balance sheet with modest
+borrowings under its revolving credit facility and a strong cash position,
+providing flexibility to invest through the cycle.
+
+OUTLOOK
+
+Looking forward, management expects continued revenue growth, though at a
+moderating rate as the business scales. The Company intends to prioritize
+investment in product and selective acquisitions while maintaining
+disciplined cost management. Forward-looking statements are subject to risks
+and uncertainties that could cause actual results to differ materially.
