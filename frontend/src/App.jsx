@@ -131,8 +131,8 @@ export default function App() {
       <div style={S.topbar}>
         <div style={S.brand}>
           <span style={S.brandMark}>▣</span>
-          <span style={S.brandName}>ANNUAL REPORT ANALYST</span>
-          <span style={S.brandSub}>EQUITY RESEARCH TERMINAL</span>
+          <span style={S.brandName}>FILING INTELLIGENCE TERMINAL</span>
+          <span style={S.brandSub}>FILING ANALYSIS</span>
         </div>
         <div style={S.topRight}>
           <span style={S.statusChip}><span style={S.dot} />Live</span>
@@ -211,7 +211,7 @@ export default function App() {
               {/* HEADER */}
               <div style={S.targetHead}>
                 <div>
-                  <div style={S.targetTag}>EQUITY RESEARCH NOTE</div>
+                  <div style={S.targetTag}>FILING ANALYTICS</div>
                   <div style={S.coName}>{memo.company_name || "—"}</div>
                   <div style={S.coMeta}>{(memo.sector || "—").toUpperCase()} &nbsp;·&nbsp; FY{memo.fiscal_year ?? "—"} &nbsp;·&nbsp; RESEARCH DRAFT</div>
                 </div>
